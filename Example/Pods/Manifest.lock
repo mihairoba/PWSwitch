@@ -1,5 +1,5 @@
 PODS:
-  - PWSwitch (1.1.1)
+  - PWSwitch (1.1.2)
 
 DEPENDENCIES:
   - PWSwitch (from `../`)
@@ -9,8 +9,8 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  PWSwitch: 19b4b453ffd1551613de86e8d4e53053cc94f832
+  PWSwitch: 5955f7bdbcdeebbca6cdeabdf7f08930179cadd9
 
 PODFILE CHECKSUM: f98ac3f49f181883025ab9c5bb53e9848ae214d9
 
-COCOAPODS: 1.5.0
+COCOAPODS: 1.5.3
